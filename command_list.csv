@@ -1,0 +1,187 @@
+    1  help cd
+    2  cd Desktop
+    3  cd QA36
+    4  cd ../
+    5  cd /Users/nataly/Desktop/QA36 
+    6  clear 
+    7  pwd 
+    8  ls -l
+    9  tought test.txt
+   10  ls -l
+   11  dir
+   12  ls -1
+   13  clear
+   14  ls -1
+   15  touch test.txt
+   16  ls -1
+   17  clear
+   18  vim test.txt
+   19  vim test.txt
+   20  cat test.txt
+   21  mkdir Natali
+   22  ls -l
+   23  cp test.txt Natali
+   24  ls -l
+   25  cd Natali
+   26  ls -l
+   27  rm test.txt
+   28  ls -l
+   29  ping googl.com
+   30  date
+   31  system_profiler
+   32  cd ../
+   33  ls -l
+   34  chmod 444 test.txt
+   35  ls -l
+   36  attrib +r test.txt
+   37  ls -l
+   38  clear
+   39  git clone https://github.com/NataliaVas/QA_test_2024.git
+   40  git clone https://github.com/NataliaVas/QA_test_2024.git
+   41  cd QA_test_2024
+   42  git config --global user.name "Natalia Vasylkova"
+   43  git config --global user.email "nvasilkova0403@gmail.com"
+   44  toucg file.txt
+   45  touch file.txt
+   46  git status
+   47  git add file.txt
+   48  git status
+   49  git add file.txt
+   50  git status
+   51  git commit -m "first commit"
+   52  git push
+   53  git commit -m "first commit"
+   54  git add file.txt
+   55  git status
+   56  git push
+   57  clear
+   58  git config --global user.name 'NataliaVas'
+   59  git config --global user.email 'nvasilkova0403@gmail.com'
+   60  touch file2.txt
+   61  ls -l
+   62  git status
+   63  defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+   64  git status
+   65  git push
+   66  clear
+   67  ls -l
+   68  git status
+   69  git status
+   70  clear
+   71  ls -l
+   72  history -c && rm ~/.bash_history
+   73  git config --global user.name "NataliaVas"
+   74  git config --global user.email "nvasilkova0403@gmail.com"
+   75  git status
+   76  git add file2.txt
+   77  git status
+   78  git add .DS_Store
+   79  git status
+   80  git commit -m "fierst"
+   81  git push
+   82  git push
+   83  clear
+   84  git push
+   85  history -c && rm ~/.bash_history
+   86  git push
+   87  history -c
+   88  rm ~ / .bash_history
+   89  git push
+   90  touch test.txt
+   91  ls -l
+   92  git add test.txt
+   93  git status
+   94  git commit -m "second"
+   95  git push
+   96  git push
+   97  clear
+   98  cd QA36
+   99  cd QA_test_2024
+  100  cd qa36
+  101  cd 123
+  102  clear
+  103  cd 123
+  104  cd..qa36
+  105  cd.. qa36
+  106  cd ..QA36
+  107  dir
+  108  list
+  109  clear
+  110  cd..
+  111  cd Desktop
+  112  cd QA36
+  113  QA_test_2024
+  114  cd QA_test_2024
+  115  git status
+  116  git push
+  117  git pull
+  118  git push
+  119  cd Desktop
+  120  cd QA36
+  121  cd QA_test_2024
+  122  git credential-cache exit
+  123  git status
+  124  git config --global user.name "NataliaVas"
+  125  git config --global user.name "NataliaVas"
+  126  git config --global user.name "NataliaVas"
+  127  git config --global user.email "nvasilkova0403@gmail.com"
+  128  ls -l
+  129  git status
+  130  git add file2.txt
+  131  git status
+  132  git pull
+  133  git push
+  134  git checkout -b test
+  135  git branch
+  136  touch test.txt
+  137  ls -l
+  138  git status
+  139  git add test.txt
+  140  git status
+  141  git commit -m "Second"
+  142  git checkout main
+  143  git merge test
+  144  git push
+  145  git credential-cache exit
+  146  cd Desktop
+  147  cd QA_HW_10
+  148  cd https://github.com/NataliaVas/HW_10.git
+  149  git credential-cache exit
+  150  cd Desktop
+  151  cd QA_H
+  152  cd QA_HM_10
+  153  cd QA_HW_10
+  154  git clone git credential-cache exit
+  155  git credential-cache exit
+  156  Last login: Sat Jun  1 16:51:25 on console\nnataly@MacBook-Pro ~ % cd Desktop \nnataly@MacBook-Pro Desktop % cd QA_HW_10\nnataly@MacBook-Pro QA_HW_10 % git clone https://github.com/NataliaVas/HW_10.git\nCloning into 'HW_10'...\nremote: Enumerating objects: 4, done.\nremote: Counting objects: 100% (4/4), done.\nremote: Compressing objects: 100% (3/3), done.\nremote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0\nReceiving objects: 100% (4/4), done.\nnataly@MacBook-Pro QA_HW_10 % cd HW_10\nnataly@MacBook-Pro HW_10 % git config --global user.name "nataliaVas"\nnataly@MacBook-Pro HW_10 % git config --global user.email "nvasilkova0403@gmail.com"\nnataly@MacBook-Pro HW_10 % touch text_ignore.txt\nnataly@MacBook-Pro HW_10 % vim .gitignore\nnataly@MacBook-Pro HW_10 % git status\nOn branch main\nYour branch is up to date with 'origin/main'.\n\nChanges not staged for commit:\n  (use "git add <file>..." to update what will be committed)\n  (use "git restore <file>..." to discard changes in working directory)\n\tmodified:   .gitignore\n\nUntracked files:\n  (use "git add <file>..." to include in what will be committed)\n\ttext_ignore.txt\n\nno changes added to commit (use "git add" and/or "git commit -a")\nnataly@MacBook-Pro HW_10 % git add .gitignore\nnataly@MacBook-Pro HW_10 % git add text_ignore.txt\nnataly@MacBook-Pro HW_10 % git status\nOn branch main\nYour branch is up to date with 'origin/main'.\n\nChanges to be committed:\n  (use "git restore --staged <file>..." to unstage)\n\tmodified:   .gitignore\n\tnew file:   text_ignore.txt\n\nnataly@MacBook-Pro HW_10 % git commit -m "First"\n[main 257a5bb] First\n 2 files changed, 3 insertions(+), 2 deletions(-)\n create mode 100644 text_ignore.txt\nnataly@MacBook-Pro HW_10 % touch main_test.txt\nnataly@MacBook-Pro HW_10 % git add main_test.txt\nnataly@MacBook-Pro HW_10 % git commit -m "Second"\n[main 29cfb40] Second\n 1 file changed, 0 insertions(+), 0 deletions(-)\n create mode 100644 main_test.txt\nnataly@MacBook-Pro HW_10 % git checkout -b develop\nSwitched to a new branch 'develop'\nnataly@MacBook-Pro HW_10 % git branch\n* develop\n  main\nnataly@MacBook-Pro HW_10 % touch develop_test.txt\nnataly@MacBook-Pro HW_10 % git add develop_test.txt\nnataly@MacBook-Pro HW_10 % git commit -m "Third"\n[develop 532f1c7] Third\n 1 file changed, 0 insertions(+), 0 deletions(-)\n create mode 100644 develop_test.txt\nnataly@MacBook-Pro HW_10 % vim develop_test.txt\nnataly@MacBook-Pro HW_10 % git status\nOn branch develop\nChanges not staged for commit:\n  (use "git add <file>..." to update what will be committed)\n  (use "git restore <file>..." to discard changes in working directory)\n\tmodified:   develop_test.txt\n\nno changes added to commit (use "git add" and/or "git commit -a")\nnataly@MacBook-Pro HW_10 % git add develop_test.txt\nnataly@MacBook-Pro HW_10 % git commit -m "Forth"\n[develop ca41b31] Forth\n 1 file changed, 1 insertion(+)\nnataly@MacBook-Pro HW_10 % git checkout main\nSwitched to branch 'main'\nYour branch is ahead of 'origin/main' by 2 commits.\n  (use "git push" to publish your local commits)\nnataly@MacBook-Pro HW_10 % git merge develop\nUpdating 29cfb40..ca41b31\nFast-forward\n develop_test.txt | 1 +\n 1 file changed, 1 insertion(+)\n create mode 100644 develop_test.txt
+  157  cd Desktop
+  158  cd QA_HW_10
+  159  git clone https://github.com/NataliaVas/HW_10.git
+  160  cd HW_10
+  161  git config --global user.name "nataliaVas"
+  162  git config --global user.email "nvasilkova0403@gmail.com"
+  163  touch text_ignore.txt
+  164  vim .gitignore
+  165  git status
+  166  git add .gitignore
+  167  git add text_ignore.txt
+  168  git status
+  169  git commit -m "First"
+  170  touch main_test.txt
+  171  git add main_test.txt
+  172  git commit -m "Second"
+  173  git checkout -b develop
+  174  git branch
+  175  touch develop_test.txt
+  176  git add develop_test.txt
+  177  git commit -m "Third"
+  178  vim develop_test.txt
+  179  git status
+  180  git add develop_test.txt
+  181  git commit -m "Forth"
+  182  git checkout main
+  183  git merge develop
+  184  git log
+  185  cd Desktop
+  186  cd QA_HW_10
+  187  cd HW_10
